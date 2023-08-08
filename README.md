@@ -1,2 +1,1 @@
-# fermiAI
-a minimal website for fermi
+### A minimal looking website for fermiAI
